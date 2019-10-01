@@ -1,2 +1,2 @@
 # my-first-repo
-Github training **course
+Github training course
